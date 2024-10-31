@@ -1,0 +1,14 @@
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\bin\Debug\net8.0\Examen_Veterinario.exe
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\bin\Debug\net8.0\Examen_Veterinario.deps.json
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\bin\Debug\net8.0\Examen_Veterinario.runtimeconfig.json
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\bin\Debug\net8.0\Examen_Veterinario.dll
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\bin\Debug\net8.0\Examen_Veterinario.pdb
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.AssemblyInfoInputs.cache
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.AssemblyInfo.cs
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.csproj.CoreCompileInputs.cache
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.dll
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\refint\Examen_Veterinario.dll
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.pdb
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\Examen_Veterinario.genruntimeconfig.cache
+C:\Users\marco\RiderProjects\Examen_Veterinario\Examen_Veterinario\obj\Debug\net8.0\ref\Examen_Veterinario.dll
